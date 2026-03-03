@@ -150,8 +150,7 @@ Google API (OAuth 2.0 — auth_google.py)
 ### 1. Depoyu Klonlayın
 
 ```bash
-git clone https://github.com/kullanici/google-ai-asistan.git
-cd google-ai-asistan
+git clone https://github.com/beratt06/Google_Ai_Agent/tree/main
 ```
 
 ### 2. Sanal Ortam Oluşturun
